@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KKocfI7jgVZ9oSbDtl43GW+J9+wBZs1ol3xCHIh62Uo=",
+  "Source": "CustomerPaymentsPortal",
+  "BasePath": "_content/CustomerPaymentsPortal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
